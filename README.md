@@ -28,4 +28,10 @@
 
 <center>
 <h2 align="center">Git Hub Stats</h2>
+<p align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Komal-99&layout=compact&show_icons=true&theme=radical)](https://github.com/Komal-99/github-readme-stats)
+
+</p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Komal-99&show_icons=true&theme=radical)](https://github.com/Komal-99/github-readme-stats)
