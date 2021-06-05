@@ -1,7 +1,7 @@
  # Hi there 🤗 
 
 
-<p><i> I'm Komal a 1st year B.Tech. CSE student at The Northcap University. I'm a Tech Enthusiast and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
+<p><i> I'm  a 1st year B.Tech. CSE student at The Northcap University. I'm a Tech Enthusiast and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 <img src="https://user-images.githubusercontent.com/74819092/118170606-e73acc00-b447-11eb-8ef4-0ebbab5bc7d7.png"align="right" height=38% width=38%>
 
 <ul>
